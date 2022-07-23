@@ -32,7 +32,7 @@ export default function Navbar(props) {
 //  Navbar.propTypes={
 //   title:PropTypes.string.isRequired,
 //    aboutText:PropTypes.string}
-
+//bk
              
                 
 //WHEN NO PROPS ARE PASSED , THESE ARE SET AS DEFALUT VALUES.
